@@ -7,7 +7,7 @@
 开发环境：ubuntu20
 
 运行软件： bochs
-
+编译器: gcc5以上版本 nsam
 ### 编译
 
 make compile
